@@ -1,0 +1,26 @@
+<annotation>
+	<folder>print fail images</folder>
+	<filename>image11.jpeg</filename>
+	<path>E:\Imon\3D printer\print fail images\image11.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>51</ymin>
+			<xmax>147</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

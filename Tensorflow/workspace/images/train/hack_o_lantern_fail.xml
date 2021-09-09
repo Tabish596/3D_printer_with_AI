@@ -1,0 +1,26 @@
+<annotation>
+	<folder>print fail images</folder>
+	<filename>hack_o_lantern_fail.png</filename>
+	<path>E:\Imon\3D printer\print fail images\hack_o_lantern_fail.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2272</width>
+		<height>1704</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>295</ymin>
+			<xmax>2008</xmax>
+			<ymax>1521</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>print fail images</folder>
+	<filename>beast.jpg</filename>
+	<path>E:\Imon\3D printer\print fail images\beast.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3203</width>
+		<height>1802</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>830</xmin>
+			<ymin>77</ymin>
+			<xmax>2209</xmax>
+			<ymax>1764</ymax>
+		</bndbox>
+	</object>
+</annotation>

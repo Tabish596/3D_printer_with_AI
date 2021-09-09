@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good prints</folder>
+	<filename>BabyYodaV2_Ori_F3_DSC01018.jpg</filename>
+	<path>E:\Imon\3D printer\good prints\BabyYodaV2_Ori_F3_DSC01018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4912</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1113</xmin>
+			<ymin>428</ymin>
+			<xmax>3847</xmax>
+			<ymax>3018</ymax>
+		</bndbox>
+	</object>
+</annotation>

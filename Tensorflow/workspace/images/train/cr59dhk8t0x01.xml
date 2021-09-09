@@ -1,0 +1,26 @@
+<annotation>
+	<folder>print fail images</folder>
+	<filename>cr59dhk8t0x01.jpg</filename>
+	<path>E:\Imon\3D printer\print fail images\cr59dhk8t0x01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>276</ymin>
+			<xmax>2156</xmax>
+			<ymax>2563</ymax>
+		</bndbox>
+	</object>
+</annotation>

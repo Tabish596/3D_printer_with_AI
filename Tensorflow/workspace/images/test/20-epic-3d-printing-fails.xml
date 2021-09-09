@@ -1,0 +1,26 @@
+<annotation>
+	<folder>print fail images</folder>
+	<filename>20-epic-3d-printing-fails.jpg</filename>
+	<path>E:\Imon\3D printer\print fail images\20-epic-3d-printing-fails.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>496</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fail</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>152</ymin>
+			<xmax>729</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

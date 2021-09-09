@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good prints</folder>
+	<filename>43903ca1eb2428eb1432237eb86175b0_preview_featured.jpg</filename>
+	<path>E:\Imon\3D printer\good prints\43903ca1eb2428eb1432237eb86175b0_preview_featured.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>64</ymin>
+			<xmax>429</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
